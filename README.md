@@ -31,3 +31,6 @@ enter a word: hello
 
 ## License
 - This project is open source and available under the MIT License.
+
+## Contact
+- tolgayilmaz1377@gmail.com
