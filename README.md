@@ -14,6 +14,7 @@ It's a simple and educational tool for practicing file handling and dictionary/l
 ## Example
 **User input:**
 enter a word: hello
+
 **Output:**
 ['Hotel', 'Echo', 'Lima', 'Lima', 'Oscar']
 
